@@ -2,7 +2,7 @@
 ```
 TNFSH31806: 資安選修作業
 
-A.資料科學(Data S)
+A.資料科學(Data Science)
   A1.Numpy 
   A2.Data Visualization(資料視覺化):Matplotlib
   A3.Pandas
